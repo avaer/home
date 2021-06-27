@@ -1,6 +1,6 @@
 {
   "name": "home",
   "description": "Home XRPackage",
-  "start_url": "home.glb",
+  "start_url": "home-island.glb",
   "physics": true
 }
